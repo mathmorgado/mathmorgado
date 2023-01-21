@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathmorgado)
 
-![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=mathmorgado&show_icons=true&theme=radical)
+[![Math GitHub stats-radical](https://github-readme-stats.vercel.app/api?username=mathmorgado&show_icons=true&theme=radical#gh-radical-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Math GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mathmorgado&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## Tecnologias que tenho estudado ultimamente
 
