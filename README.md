@@ -7,14 +7,14 @@
   <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmorgado&layout=compact&bg_color=0D1117&hide_border=true&title_color=00FA9A&icon_color=00FA9A&text_color=fff&" />
 </div>
 
-## Tech Stack
+## 💻Tech Stack
 #### Main skills
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=blue&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Other knowledges
+### 🧠Other knowledges
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=C&logoColor=00599C&color=0D1117)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)
